@@ -9,7 +9,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* ===== BASE STYLES ===== */
 
-html{
+	html{
 		font-family: "Arial Black", Gadget, sans-serif;
 		font-size: 1em; /*16px*/
 		line-height: 1.25em; /*20px @ 16px em= 1 gridline */
@@ -20,9 +20,6 @@ html{
 	
 	}
 	
-
-	
-/*==== Heading ==== */
 	
  	
 	h1{
